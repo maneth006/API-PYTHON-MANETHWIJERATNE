@@ -1,0 +1,75 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Lionel Messi",
+        "team": "Inter Miami",
+        "position": "Forward",
+        "number": "10"
+      },
+      {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "team": "Al Nassr",
+        "position": "Forward",
+        "number": "7"
+      },
+      {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "team": "Al Hilal",
+        "position": "Forward",
+        "number": "11"
+      },
+      {
+        "id": 4,
+        "name": "Kylian Mbappé",
+        "team": "Paris Saint-Germain",
+        "position": "Forward",
+        "number": "7"
+      },
+      {
+        "id": 5,
+        "name": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "position": "Midfielder",
+        "number": "17"
+      },
+      {
+        "id": 6,
+        "name": "Virgil van Dijk",
+        "team": "Liverpool",
+        "position": "Defender",
+        "number": "4"
+      },
+      {
+        "id": 7,
+        "name": "Luka Modrić",
+        "team": "Real Madrid",
+        "position": "Midfielder",
+        "number": "10"
+      },
+      {
+        "id": 8,
+        "name": "Sadio Mané",
+        "team": "Al Nassr",
+        "position": "Forward",
+        "number": "10"
+      },
+      {
+        "id": 9,
+        "name": "Mohamed Salah",
+        "team": "Liverpool",
+        "position": "Forward",
+        "number": "11"
+      },
+      {
+        "id": 10,
+        "name": "Manuel Neuer",
+        "team": "Bayern Munich",
+        "position": "Goalkeeper",
+        "number": "1"
+      }
+    ]
+  }
+  
